@@ -1,7 +1,7 @@
-# Nitheesh-kumar
+# SMART GREVIANCE REDRESSAL PORTAL [NON HARDWARE]
 Smart Grievance Redressal Portal (Non-Hardware)  Problem: Citizens often face difficulties in raising complaints about civic issues (potholes, garbage, streetlights not working) and tracking their resolution.  
 Project features
-Citizen mobile/web app
+Citizen mobile/web app CONTAINS
 Complaint submission: A user-friendly interface allows citizens to register complaints with a description and location details.
 Photo upload: Users can upload pictures to provide visual evidence of the civic issue.
 Location services: The app leverages GPS to automatically pinpoint the location of the complaint for accurate and faster resolution.
@@ -47,3 +47,7 @@ Anonymity: Users can be given the option to file certain types of complaints ano
 Secure protocols: All data transmission will use secure protocols (HTTPS) to protect user data from interception.
 Compliance: The system should adhere to relevant data protection regulations, such as India's Digital Personal Data Protection Act, 2023.
 Limited data collection: Only essential personal information is collected, with users informed about the purpose of data collection.
+![sujeeth p](https://github.com/user-attachments/assets/6dd80abe-8dd3-4dee-ab94-71f1f2ad7f30)
+it also includes our model qr code 
+![WhatsApp Image 2025-10-07 at 12 46 49_821c79a6](https://github.com/user-attachments/assets/404bcb4d-b3a9-4fb9-aee8-d33bfda7d4f3)
+![WhatsApp Image 2025-10-07 at 15 13 11_8b58e027](https://github.com/user-attachments/assets/9cc861ec-cc61-411a-abbc-30788b21ea3b)
